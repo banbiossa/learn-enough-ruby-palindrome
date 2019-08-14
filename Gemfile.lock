@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sshimizu_palindrome (0.1.0)
+    sshimizu_palindrome (0.1.1)
 
 GEM
   remote: https://rubygems.org/
